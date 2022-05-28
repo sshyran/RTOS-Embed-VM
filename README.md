@@ -7,3 +7,17 @@ RTOS and Embedded systems
 - https://developer.sony.com/develop/open-source/
 - https://developer.sony.com/develop/nuttx-rtos-on-spresense/
 - https://nuttx.apache.org/docs/latest/index.html
+
+
+
+
+# VM
+VM, Hypervisor, Containers, Microservice, Dev Env  etc.
+
+
+
+### Quarcus Renarde (Red Hat Ed.)
+https://github.com/sshyran/quarkus-renarde
+
+
+
