@@ -1,6 +1,9 @@
 # RTOS-Embed
 RTOS and Embedded systems
 
+https://github.com/zephyrproject-rtos/zephyr
+https://zephyrproject.org/learn-about/applications/
+https://source.chromium.org/chromiumos/chromiumos/codesearch/+/main:src/third_party/zephyr/main/
 
 ### Buildroot - Embedded Linux / NuttX
 - https://github.com/sshyran/buildroot-embedded-linux
