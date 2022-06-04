@@ -26,7 +26,8 @@ RTOS and Embedded systems
 - https://www.crowdsupply.com/
 - 
 
-
+## ChromeOS Flex
+- https://chromiumdash.appspot.com/serving-builds?deviceCategory=ChromeOS%20Flex
 
 
 
